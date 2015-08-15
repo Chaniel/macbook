@@ -21,4 +21,5 @@ lsof -i -n -P
 
 ＃ 查看5000端口的连接
 lsof -i -n -P| grep 5000
+lsof -i:5000
 
