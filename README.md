@@ -1,2 +1,2 @@
-# macbook
-macbook learn
+# MacBook Skills
+MacBook skills 
